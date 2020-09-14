@@ -1,1 +1,2 @@
-<img src="./promo.png"/>
+
+[![Dyrkov Andrew](./promo.png)](https://webworkdeveloper.github.io)
