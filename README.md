@@ -27,8 +27,5 @@ Welcome to my party :)
   <img src="https://cultofthepartyparrot.com/parrots/hd/copparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/beretparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hardhatparrot.gif" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="30" height="30" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/maracasparrot.gif" width="30" height="30" />
   <img src="https://cultofthepartyparrot.com/guests/hd/partykeanu.gif" width="30" height="30" />
 </div>
